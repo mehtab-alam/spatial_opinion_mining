@@ -1,1 +1,1 @@
-# spatial_opinion_mining
+# Spatial Opinion Mining
